@@ -81,3 +81,7 @@ to be able to access it.
 
 
 ## Ready to begin
+
+## .env
+
+Created a `.env` one and editted `docker-compose.yaml` - had issues with Bad Requests on Airflow UI. The `.env` is in `.gitignore` but what I did can be seen in `.env.example`.
